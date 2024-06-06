@@ -3,4 +3,5 @@ uuid = "df54288b-a541-4846-bdce-e9842cb2b929"
 repo = "git@github.com:RomeoV/local_registry.git"
 
 [packages]
+1986cc42-f94f-5a68-af5c-568840ba703d = { name = "Unitful", path = "U/Unitful" }
 bbc1677d-7cf1-46ff-9fcf-9af1de965559 = { name = "MvNormalCalibration", path = "M/MvNormalCalibration" }

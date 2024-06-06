@@ -1,0 +1,7 @@
+[1]
+ConstructionBase = "1"
+Dates = ["0.0.0", "1"]
+InverseFunctions = "0.1"
+LinearAlgebra = ["0.0.0", "1"]
+Random = ["0.0.0", "1"]
+julia = "1"
