@@ -1,0 +1,5 @@
+name = "local_registry"
+uuid = "df54288b-a541-4846-bdce-e9842cb2b929"
+repo = "git@github.com:RomeoV/local_registry.git"
+
+[packages]
