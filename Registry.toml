@@ -4,6 +4,7 @@ repo = "git@github.com:RomeoV/local_registry.git"
 
 [packages]
 0098cf3f-3e1e-4f11-b01c-dd9dec1b3374 = { name = "ProbabilisticParameterEstimators", path = "P/ProbabilisticParameterEstimators" }
+131bfee0-d7fc-448d-a615-6b626323d8ce = { name = "RunwayLib", path = "R/RunwayLib" }
 1986cc42-f94f-5a68-af5c-568840ba703d = { name = "Unitful", path = "U/Unitful" }
 987ad435-e993-44fa-9c05-fce934ed82f8 = { name = "GeodesyXYZExt", path = "G/GeodesyXYZExt" }
 9f9888c4-b286-4126-9f88-fdfc7f7e7d1b = { name = "RunwayPNPSolve", path = "R/RunwayPNPSolve" }
