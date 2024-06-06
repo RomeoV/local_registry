@@ -4,4 +4,5 @@ repo = "git@github.com:RomeoV/local_registry.git"
 
 [packages]
 1986cc42-f94f-5a68-af5c-568840ba703d = { name = "Unitful", path = "U/Unitful" }
+987ad435-e993-44fa-9c05-fce934ed82f8 = { name = "GeodesyXYZExt", path = "G/GeodesyXYZExt" }
 bbc1677d-7cf1-46ff-9fcf-9af1de965559 = { name = "MvNormalCalibration", path = "M/MvNormalCalibration" }
