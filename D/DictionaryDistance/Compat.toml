@@ -1,0 +1,7 @@
+[0]
+Distances = "0.10"
+Hungarian = "0.7"
+MLBase = "0.9"
+Reexport = "1"
+SparseArrays = "1"
+julia = "1.10.0-1"
