@@ -1,6 +1,7 @@
 name = "local_registry"
 uuid = "df54288b-a541-4846-bdce-e9842cb2b929"
-repo = "git@github.com:RomeoV/local_registry.git"
+# repo = "git@github.com:RomeoV/local_registry.git"
+repo = "/home/romeo/.julia/registries/local_registry"
 
 [packages]
 131bfee0-d7fc-448d-a615-6b626323d8ce = { name = "RunwayLib", path = "R/RunwayLib" }
