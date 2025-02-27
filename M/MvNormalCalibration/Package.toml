@@ -1,3 +1,4 @@
 name = "MvNormalCalibration"
 uuid = "bbc1677d-7cf1-46ff-9fcf-9af1de965559"
-repo = "git@github.com:RomeoV/MvNormalCalibration.jl.git"
+repo = "/home/romeo/Documents/julia_playground/MvNormalCalibration.jl"
+# repo = "git@github.com:RomeoV/MvNormalCalibration.jl.git"
