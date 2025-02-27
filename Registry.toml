@@ -9,3 +9,4 @@ repo = "/home/romeo/.julia/registries/local_registry"
 97992f1d-b083-46ab-ad9c-863c50d80d12 = { name = "DensityIntegrator", path = "D/DensityIntegrator" }
 987ad435-e993-44fa-9c05-fce934ed82f8 = { name = "GeodesyXYZExt", path = "G/GeodesyXYZExt" }
 9f9888c4-b286-4126-9f88-fdfc7f7e7d1b = { name = "RunwayPNPSolve", path = "R/RunwayPNPSolve" }
+bbc1677d-7cf1-46ff-9fcf-9af1de965559 = { name = "MvNormalCalibration", path = "M/MvNormalCalibration" }
