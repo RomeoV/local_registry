@@ -3,6 +3,7 @@ uuid = "df54288b-a541-4846-bdce-e9842cb2b929"
 repo = "/home/romeo/.julia/registries/local_registry"
 
 [packages]
+0098cf3f-3e1e-4f11-b01c-dd9dec1b3374 = { name = "ProbabilisticParameterEstimators", path = "P/ProbabilisticParameterEstimators" }
 131bfee0-d7fc-448d-a615-6b626323d8ce = { name = "RunwayLib", path = "R/RunwayLib" }
 2b83b5e6-75ac-4935-a092-400fa6ce651e = { name = "AA228V_FinalProject", path = "A/AA228V_FinalProject" }
 4a50f2c7-854b-4ecf-96c4-63ef3198682d = { name = "DictionaryDistance", path = "D/DictionaryDistance" }
